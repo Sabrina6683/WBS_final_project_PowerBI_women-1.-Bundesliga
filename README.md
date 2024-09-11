@@ -1,6 +1,8 @@
 # WBS_final_project_PowerBI-women-s_1._Bundesliga
 
+**Final project during WBS Coding School 'Data Science' Bootcamp**
 
+*Web Scraping, Use of APIs, Data Visualization, Data Storytelling, Power BI*
 
 ## Avtribute to the German women's football 1. Bundesliga
 
